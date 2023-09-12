@@ -6,4 +6,4 @@ Some basic *introduction* **here**
 - Second item
 - Third item
 
-   This is a scary [link](www.google.com) 
+   This is a scary [link](http://www.google.com) 
